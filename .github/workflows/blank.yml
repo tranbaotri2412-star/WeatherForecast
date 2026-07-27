@@ -1,0 +1,31 @@
+name: "Update Weather"
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 8 * * *" 
+  
+jobs:
+  run-weather-app:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Run Action
+        uses: MaarceloLuiz/springboot-weather-forecast@v1.0.2
+        with:
+          WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
+          FORECAST_CITY: ${{ vars.FORECAST_CITY }}
+          FORECAST_DAYS: ${{ vars.FORECAST_DAYS }}
+          TABLE_TYPE: ${{ vars.TABLE_TYPE }}
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Update weather forecast" || echo "No changes to commit"
+          git push origin main

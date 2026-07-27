@@ -32,13 +32,49 @@ Full Moon
 <td>25.2 °C</td><td>25.0 °C</td><td>24.8 °C</td><td>24.5 °C</td><td>24.6 °C</td><td>25.0 °C</td><td>25.0 °C</td><td>25.7 °C</td><td>26.8 °C</td><td>28.1 °C</td><td>28.3 °C</td><td>27.6 °C</td><td>27.1 °C</td><td>28.7 °C</td><td>29.9 °C</td><td>29.7 °C</td><td>28.2 °C</td><td>27.7 °C</td><td>27.4 °C</td><td>27.1 °C</td><td>26.9 °C</td><td>26.7 °C</td><td>26.4 °C</td><td>25.9 °C</td></tr><tr><th>Wind</th>
 <td>7.2 kph</td><td>6.5 kph</td><td>5.8 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>9.0 kph</td><td>9.0 kph</td><td>9.7 kph</td><td>13.7 kph</td><td>18.7 kph</td><td>17.3 kph</td><td>15.8 kph</td><td>13.7 kph</td><td>15.5 kph</td><td>15.5 kph</td><td>13.7 kph</td><td>11.9 kph</td><td>11.2 kph</td><td>5.8 kph</td><td>4.7 kph</td><td>6.5 kph</td><td>10.1 kph</td><td>11.2 kph</td><td>11.2 kph</td></tr></table>
 
-*Updated at: 2026-07-27 02:07 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
+*Updated at: 2026-07-27 02:14 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
 
 
 <!-- HOURLY-END -->
 
 # 2- Multi-Day Forecast
 <!-- MULTI-DAY-START -->
+## 3 Days Weather Forecast
+
+<div align="center">
+
+`Ho Chi Minh City - 2026-07-27`
+
+<table style="border-collapse: collapse; width: auto; margin: auto;">
+<tr>
+<td align="center" style="border: none; padding: 10px;">
+<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/>
+
+Patchy rain nearby
+
+</td>
+<td align="center" style="border: none; padding: 10px;">
+<img src="https://raw.githubusercontent.com/MaarceloLuiz/springboot-weather-forecast/main/assets/img/Full Moon.png" alt="Moon Phase Icon" style="width:50px; height:50px;"/>
+
+Full Moon
+
+</td>
+</tr>
+</table>
+</div>
+
+<table>
+<tr><th>Date</th>
+<td>2026-07-27</td><td>2026-07-28</td><td>2026-07-29</td></tr><tr><th>Weather</th>
+<td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td></tr><tr><th>Condition</th>
+<td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td></tr><tr><th>Moon Phase</th>
+<td>Full Moon</td><td>Full Moon</td><td>Full Moon</td></tr><tr><th>Moon</th>
+<td style="padding: 10;"><img src="https://raw.githubusercontent.com/MaarceloLuiz/springboot-weather-forecast/main/assets/img/Full Moon.png" alt="Moon Phase Icon" style="width:40px; height:40px;"/></td><td style="padding: 10;"><img src="https://raw.githubusercontent.com/MaarceloLuiz/springboot-weather-forecast/main/assets/img/Full Moon.png" alt="Moon Phase Icon" style="width:40px; height:40px;"/></td><td style="padding: 10;"><img src="https://raw.githubusercontent.com/MaarceloLuiz/springboot-weather-forecast/main/assets/img/Full Moon.png" alt="Moon Phase Icon" style="width:40px; height:40px;"/></td></tr><tr><th>Temperature</th>
+<td>24.5 - 29.9 °C</td><td>24.5 - 28.4 °C</td><td>23.5 - 25.4 °C</td></tr><tr><th>Wind</th>
+<td>18.7 kph</td><td>16.9 kph</td><td>17.6 kph</td></tr></table>
+
+*Updated at: 2026-07-27 02:14 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
+
 
 <!-- MULTI-DAY-END -->
 ---

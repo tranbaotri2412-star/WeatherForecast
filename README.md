@@ -32,7 +32,7 @@ New Moon
 <td>27.3 °C</td><td>26.8 °C</td><td>26.6 °C</td><td>25.9 °C</td><td>25.8 °C</td><td>25.8 °C</td><td>25.9 °C</td><td>26.2 °C</td><td>26.4 °C</td><td>28.3 °C</td><td>30.5 °C</td><td>31.5 °C</td><td>32.4 °C</td><td>32.0 °C</td><td>31.4 °C</td><td>31.6 °C</td><td>30.0 °C</td><td>29.0 °C</td><td>28.9 °C</td><td>28.6 °C</td><td>28.0 °C</td><td>27.5 °C</td><td>27.0 °C</td><td>26.6 °C</td></tr><tr><th>Wind</th>
 <td>15.1 kph</td><td>15.1 kph</td><td>11.5 kph</td><td>8.6 kph</td><td>7.6 kph</td><td>7.6 kph</td><td>6.8 kph</td><td>10.1 kph</td><td>11.5 kph</td><td>15.5 kph</td><td>22.3 kph</td><td>24.5 kph</td><td>22.7 kph</td><td>21.6 kph</td><td>23.8 kph</td><td>22.0 kph</td><td>20.9 kph</td><td>18.0 kph</td><td>20.9 kph</td><td>20.2 kph</td><td>18.7 kph</td><td>18.0 kph</td><td>16.6 kph</td><td>16.2 kph</td></tr></table>
 
-*Updated at: 2026-08-10 08:21 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
+*Updated at: 2026-08-10 09:17 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
 
 
 <!-- HOURLY-END -->
@@ -73,7 +73,7 @@ New Moon
 <td>25.8 - 32.4 °C</td><td>25.6 - 31.7 °C</td><td>25.8 - 33.2 °C</td></tr><tr><th>Wind</th>
 <td>24.5 kph</td><td>26.6 kph</td><td>24.1 kph</td></tr></table>
 
-*Updated at: 2026-08-10 08:21 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
+*Updated at: 2026-08-10 09:17 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
 
 
 <!-- MULTI-DAY-END -->

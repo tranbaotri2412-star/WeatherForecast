@@ -32,7 +32,7 @@ Waxing Crescent
 <td>27.6 °C</td><td>27.5 °C</td><td>27.4 °C</td><td>27.2 °C</td><td>27.0 °C</td><td>26.8 °C</td><td>26.7 °C</td><td>27.5 °C</td><td>28.7 °C</td><td>30.3 °C</td><td>28.9 °C</td><td>28.7 °C</td><td>30.1 °C</td><td>31.1 °C</td><td>30.6 °C</td><td>31.6 °C</td><td>30.6 °C</td><td>29.8 °C</td><td>28.5 °C</td><td>28.3 °C</td><td>27.9 °C</td><td>27.5 °C</td><td>27.1 °C</td><td>27.1 °C</td></tr><tr><th>Wind</th>
 <td>17.3 kph</td><td>16.6 kph</td><td>15.8 kph</td><td>15.8 kph</td><td>13.7 kph</td><td>12.6 kph</td><td>12.2 kph</td><td>13.0 kph</td><td>16.9 kph</td><td>20.5 kph</td><td>17.3 kph</td><td>15.1 kph</td><td>16.9 kph</td><td>18.0 kph</td><td>17.3 kph</td><td>21.2 kph</td><td>19.8 kph</td><td>15.5 kph</td><td>14.0 kph</td><td>14.8 kph</td><td>13.0 kph</td><td>13.0 kph</td><td>11.9 kph</td><td>13.3 kph</td></tr></table>
 
-*Updated at: 2026-08-15 07:21 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
+*Updated at: 2026-08-15 08:24 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
 
 
 <!-- HOURLY-END -->
@@ -73,7 +73,7 @@ Waxing Crescent
 <td>26.7 - 31.6 °C</td><td>26.1 - 34.4 °C</td><td>26.6 - 35.5 °C</td></tr><tr><th>Wind</th>
 <td>21.2 kph</td><td>28.4 kph</td><td>28.1 kph</td></tr></table>
 
-*Updated at: 2026-08-15 07:21 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
+*Updated at: 2026-08-15 08:24 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
 
 
 <!-- MULTI-DAY-END -->

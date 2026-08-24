@@ -32,7 +32,7 @@ Waxing Gibbous
 <td>27.6 °C</td><td>27.3 °C</td><td>27.0 °C</td><td>26.8 °C</td><td>26.6 °C</td><td>26.5 °C</td><td>26.4 °C</td><td>27.5 °C</td><td>29.5 °C</td><td>31.5 °C</td><td>33.4 °C</td><td>34.9 °C</td><td>36.0 °C</td><td>36.2 °C</td><td>35.6 °C</td><td>35.5 °C</td><td>32.4 °C</td><td>32.3 °C</td><td>32.0 °C</td><td>30.7 °C</td><td>29.6 °C</td><td>28.7 °C</td><td>28.1 °C</td><td>27.8 °C</td></tr><tr><th>Wind</th>
 <td>17.6 kph</td><td>16.6 kph</td><td>15.5 kph</td><td>15.1 kph</td><td>13.3 kph</td><td>12.6 kph</td><td>12.2 kph</td><td>14.8 kph</td><td>18.0 kph</td><td>21.6 kph</td><td>23.4 kph</td><td>25.6 kph</td><td>27.7 kph</td><td>28.8 kph</td><td>28.4 kph</td><td>27.4 kph</td><td>24.8 kph</td><td>24.5 kph</td><td>23.8 kph</td><td>23.0 kph</td><td>22.7 kph</td><td>21.2 kph</td><td>20.2 kph</td><td>19.1 kph</td></tr></table>
 
-*Updated at: 2026-08-24 07:49 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
+*Updated at: 2026-08-24 08:44 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
 
 
 <!-- HOURLY-END -->
@@ -73,7 +73,7 @@ Waxing Gibbous
 <td>26.4 - 36.2 °C</td><td>26.5 - 35.0 °C</td><td>27.0 - 34.2 °C</td></tr><tr><th>Wind</th>
 <td>28.8 kph</td><td>27.0 kph</td><td>24.5 kph</td></tr></table>
 
-*Updated at: 2026-08-24 07:49 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
+*Updated at: 2026-08-24 08:44 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
 
 
 <!-- MULTI-DAY-END -->

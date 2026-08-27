@@ -32,7 +32,7 @@ Full Moon
 </tr><tr><th>Wind</th>
 </tr></table>
 
-*Updated at: 2026-08-27 17:58 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
+*Updated at: 2026-08-27 18:48 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
 
 
 <!-- HOURLY-END -->
@@ -73,7 +73,7 @@ Full Moon
 <td>26.7 - 33.6 °C</td><td>25.9 - 33.0 °C</td><td>24.2 - 29.1 °C</td></tr><tr><th>Wind</th>
 <td>22.7 kph</td><td>28.4 kph</td><td>22.7 kph</td></tr></table>
 
-*Updated at: 2026-08-27 17:58 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
+*Updated at: 2026-08-27 18:48 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
 
 
 <!-- MULTI-DAY-END -->

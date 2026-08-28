@@ -32,7 +32,7 @@ Waning Gibbous
 </tr><tr><th>Wind</th>
 </tr></table>
 
-*Updated at: 2026-08-28 19:08 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
+*Updated at: 2026-08-28 19:52 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
 
 
 <!-- HOURLY-END -->
@@ -70,10 +70,10 @@ Waning Gibbous
 <td width="200px">Light rain shower</td><td width="200px">Overcast</td><td width="200px">Overcast</td></tr><tr><th>Moon Phase</th>
 <td>Waning Gibbous</td><td>Waning Gibbous</td><td>Waning Gibbous</td></tr><tr><th>Moon</th>
 <td style="padding: 10;"><img src="https://raw.githubusercontent.com/MaarceloLuiz/springboot-weather-forecast/main/assets/img/Waning Gibbous.png" alt="Moon Phase Icon" style="width:40px; height:40px;"/></td><td style="padding: 10;"><img src="https://raw.githubusercontent.com/MaarceloLuiz/springboot-weather-forecast/main/assets/img/Waning Gibbous.png" alt="Moon Phase Icon" style="width:40px; height:40px;"/></td><td style="padding: 10;"><img src="https://raw.githubusercontent.com/MaarceloLuiz/springboot-weather-forecast/main/assets/img/Waning Gibbous.png" alt="Moon Phase Icon" style="width:40px; height:40px;"/></td></tr><tr><th>Temperature</th>
-<td>26.0 - 34.3 °C</td><td>26.2 - 33.4 °C</td><td>26.5 - 34.8 °C</td></tr><tr><th>Wind</th>
-<td>25.2 kph</td><td>27.7 kph</td><td>25.6 kph</td></tr></table>
+<td>26.2 - 32.5 °C</td><td>25.6 - 33.4 °C</td><td>26.5 - 34.8 °C</td></tr><tr><th>Wind</th>
+<td>24.5 kph</td><td>27.7 kph</td><td>25.6 kph</td></tr></table>
 
-*Updated at: 2026-08-28 19:08 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
+*Updated at: 2026-08-28 19:52 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
 
 
 <!-- MULTI-DAY-END -->

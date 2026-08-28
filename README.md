@@ -4,20 +4,20 @@
 
 <div align="center">
 
-`Ho Chi Minh City - 2026-08-28`
+`Ho Chi Minh City - 2026-08-29`
 
 <table style="border-collapse: collapse; width: auto; margin: auto;">
 <tr>
 <td align="center" style="border: none; padding: 10px;">
-<img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/>
 
-Overcast
+Light rain shower
 
 </td>
 <td align="center" style="border: none; padding: 10px;">
-<img src="https://raw.githubusercontent.com/MaarceloLuiz/springboot-weather-forecast/main/assets/img/Full Moon.png" alt="Moon Phase Icon" style="width:50px; height:50px;"/>
+<img src="https://raw.githubusercontent.com/MaarceloLuiz/springboot-weather-forecast/main/assets/img/Waning Gibbous.png" alt="Moon Phase Icon" style="width:50px; height:50px;"/>
 
-Full Moon
+Waning Gibbous
 
 </td>
 </tr>
@@ -32,7 +32,7 @@ Full Moon
 </tr><tr><th>Wind</th>
 </tr></table>
 
-*Updated at: 2026-08-27 18:48 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
+*Updated at: 2026-08-28 19:08 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
 
 
 <!-- HOURLY-END -->
@@ -43,20 +43,20 @@ Full Moon
 
 <div align="center">
 
-`Ho Chi Minh City - 2026-08-28`
+`Ho Chi Minh City - 2026-08-29`
 
 <table style="border-collapse: collapse; width: auto; margin: auto;">
 <tr>
 <td align="center" style="border: none; padding: 10px;">
-<img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/>
 
-Overcast
+Light rain shower
 
 </td>
 <td align="center" style="border: none; padding: 10px;">
-<img src="https://raw.githubusercontent.com/MaarceloLuiz/springboot-weather-forecast/main/assets/img/Full Moon.png" alt="Moon Phase Icon" style="width:50px; height:50px;"/>
+<img src="https://raw.githubusercontent.com/MaarceloLuiz/springboot-weather-forecast/main/assets/img/Waning Gibbous.png" alt="Moon Phase Icon" style="width:50px; height:50px;"/>
 
-Full Moon
+Waning Gibbous
 
 </td>
 </tr>
@@ -65,15 +65,15 @@ Full Moon
 
 <table>
 <tr><th>Date</th>
-<td>2026-08-28</td><td>2026-08-29</td><td>2026-08-30</td></tr><tr><th>Weather</th>
-<td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td></tr><tr><th>Condition</th>
-<td width="200px">Overcast</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td></tr><tr><th>Moon Phase</th>
-<td>Full Moon</td><td>Waning Gibbous</td><td>Waning Gibbous</td></tr><tr><th>Moon</th>
-<td style="padding: 10;"><img src="https://raw.githubusercontent.com/MaarceloLuiz/springboot-weather-forecast/main/assets/img/Full Moon.png" alt="Moon Phase Icon" style="width:40px; height:40px;"/></td><td style="padding: 10;"><img src="https://raw.githubusercontent.com/MaarceloLuiz/springboot-weather-forecast/main/assets/img/Waning Gibbous.png" alt="Moon Phase Icon" style="width:40px; height:40px;"/></td><td style="padding: 10;"><img src="https://raw.githubusercontent.com/MaarceloLuiz/springboot-weather-forecast/main/assets/img/Waning Gibbous.png" alt="Moon Phase Icon" style="width:40px; height:40px;"/></td></tr><tr><th>Temperature</th>
-<td>26.7 - 33.6 °C</td><td>25.9 - 33.0 °C</td><td>24.2 - 29.1 °C</td></tr><tr><th>Wind</th>
-<td>22.7 kph</td><td>28.4 kph</td><td>22.7 kph</td></tr></table>
+<td>2026-08-29</td><td>2026-08-30</td><td>2026-08-31</td></tr><tr><th>Weather</th>
+<td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td></tr><tr><th>Condition</th>
+<td width="200px">Light rain shower</td><td width="200px">Overcast</td><td width="200px">Overcast</td></tr><tr><th>Moon Phase</th>
+<td>Waning Gibbous</td><td>Waning Gibbous</td><td>Waning Gibbous</td></tr><tr><th>Moon</th>
+<td style="padding: 10;"><img src="https://raw.githubusercontent.com/MaarceloLuiz/springboot-weather-forecast/main/assets/img/Waning Gibbous.png" alt="Moon Phase Icon" style="width:40px; height:40px;"/></td><td style="padding: 10;"><img src="https://raw.githubusercontent.com/MaarceloLuiz/springboot-weather-forecast/main/assets/img/Waning Gibbous.png" alt="Moon Phase Icon" style="width:40px; height:40px;"/></td><td style="padding: 10;"><img src="https://raw.githubusercontent.com/MaarceloLuiz/springboot-weather-forecast/main/assets/img/Waning Gibbous.png" alt="Moon Phase Icon" style="width:40px; height:40px;"/></td></tr><tr><th>Temperature</th>
+<td>26.0 - 34.3 °C</td><td>26.2 - 33.4 °C</td><td>26.5 - 34.8 °C</td></tr><tr><th>Wind</th>
+<td>25.2 kph</td><td>27.7 kph</td><td>25.6 kph</td></tr></table>
 
-*Updated at: 2026-08-27 18:48 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
+*Updated at: 2026-08-28 19:08 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
 
 
 <!-- MULTI-DAY-END -->

@@ -32,7 +32,7 @@ Waning Gibbous
 <td>27.5 °C</td><td>27.1 °C</td><td>27.0 °C</td><td>26.8 °C</td><td>26.7 °C</td><td>26.5 °C</td><td>26.3 °C</td><td>27.4 °C</td><td>29.2 °C</td><td>30.8 °C</td><td>32.5 °C</td><td>33.8 °C</td><td>34.9 °C</td><td>35.8 °C</td><td>34.8 °C</td><td>34.1 °C</td><td>33.5 °C</td><td>31.0 °C</td><td>29.9 °C</td><td>29.4 °C</td><td>29.4 °C</td><td>28.9 °C</td><td>28.3 °C</td><td>27.8 °C</td></tr><tr><th>Wind</th>
 <td>16.2 kph</td><td>14.8 kph</td><td>14.4 kph</td><td>13.3 kph</td><td>12.2 kph</td><td>12.6 kph</td><td>10.1 kph</td><td>12.2 kph</td><td>15.5 kph</td><td>17.3 kph</td><td>18.7 kph</td><td>20.5 kph</td><td>21.6 kph</td><td>23.0 kph</td><td>23.0 kph</td><td>18.4 kph</td><td>15.8 kph</td><td>18.7 kph</td><td>15.5 kph</td><td>14.4 kph</td><td>14.4 kph</td><td>13.0 kph</td><td>11.9 kph</td><td>13.0 kph</td></tr></table>
 
-*Updated at: 2026-09-01 12:13 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
+*Updated at: 2026-09-01 13:03 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
 
 
 <!-- HOURLY-END -->
@@ -73,7 +73,7 @@ Waning Gibbous
 <td>26.3 - 35.8 °C</td><td>26.4 - 36.4 °C</td><td>26.6 - 35.4 °C</td></tr><tr><th>Wind</th>
 <td>23.0 kph</td><td>23.0 kph</td><td>25.6 kph</td></tr></table>
 
-*Updated at: 2026-09-01 12:13 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
+*Updated at: 2026-09-01 13:03 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
 
 
 <!-- MULTI-DAY-END -->

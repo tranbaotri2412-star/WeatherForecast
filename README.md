@@ -32,7 +32,7 @@ First Quarter
 <td>25.1 °C</td><td>25.2 °C</td><td>25.3 °C</td><td>25.1 °C</td><td>25.0 °C</td><td>24.9 °C</td><td>25.0 °C</td><td>26.0 °C</td><td>27.4 °C</td><td>29.0 °C</td><td>30.3 °C</td><td>31.5 °C</td><td>32.0 °C</td><td>31.3 °C</td><td>31.6 °C</td><td>31.5 °C</td><td>30.6 °C</td><td>29.5 °C</td><td>27.8 °C</td><td>26.5 °C</td><td>26.3 °C</td><td>26.2 °C</td><td>26.2 °C</td><td>26.1 °C</td></tr><tr><th>Wind</th>
 <td>10.1 kph</td><td>8.3 kph</td><td>5.8 kph</td><td>4.3 kph</td><td>4.0 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>5.0 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>7.2 kph</td><td>9.0 kph</td><td>11.2 kph</td><td>11.5 kph</td><td>13.3 kph</td><td>14.4 kph</td><td>14.0 kph</td><td>11.9 kph</td><td>9.0 kph</td><td>7.9 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>5.4 kph</td></tr></table>
 
-*Updated at: 2026-09-19 11:42 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
+*Updated at: 2026-09-19 12:15 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
 
 
 <!-- HOURLY-END -->
@@ -73,7 +73,7 @@ First Quarter
 <td>24.9 - 32.0 °C</td><td>25.4 - 33.2 °C</td><td>24.7 - 28.1 °C</td></tr><tr><th>Wind</th>
 <td>14.4 kph</td><td>11.9 kph</td><td>13.3 kph</td></tr></table>
 
-*Updated at: 2026-09-19 11:42 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
+*Updated at: 2026-09-19 12:15 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
 
 
 <!-- MULTI-DAY-END -->

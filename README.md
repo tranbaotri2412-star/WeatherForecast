@@ -32,7 +32,7 @@ Full Moon
 <td>24.6 °C</td><td>24.4 °C</td><td>24.7 °C</td><td>24.7 °C</td><td>24.4 °C</td><td>24.2 °C</td><td>24.4 °C</td><td>25.6 °C</td><td>26.6 °C</td><td>28.2 °C</td><td>29.2 °C</td><td>30.0 °C</td><td>30.3 °C</td><td>29.5 °C</td><td>29.4 °C</td><td>28.6 °C</td><td>27.5 °C</td><td>26.3 °C</td><td>25.7 °C</td><td>25.5 °C</td><td>25.3 °C</td><td>25.2 °C</td><td>25.0 °C</td><td>24.8 °C</td></tr><tr><th>Wind</th>
 <td>11.2 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>7.9 kph</td><td>7.2 kph</td><td>6.1 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>6.1 kph</td><td>7.2 kph</td><td>8.3 kph</td><td>11.2 kph</td><td>14.0 kph</td><td>15.1 kph</td><td>16.2 kph</td><td>14.4 kph</td><td>13.0 kph</td><td>11.2 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>7.6 kph</td><td>9.0 kph</td><td>7.9 kph</td><td>7.6 kph</td></tr></table>
 
-*Updated at: 2026-09-25 12:23 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
+*Updated at: 2026-09-25 13:14 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
 
 
 <!-- HOURLY-END -->
@@ -73,7 +73,7 @@ Full Moon
 <td>24.2 - 30.3 °C</td><td>24.1 - 30.3 °C</td><td>24.3 - 31.2 °C</td></tr><tr><th>Wind</th>
 <td>16.2 kph</td><td>13.3 kph</td><td>13.0 kph</td></tr></table>
 
-*Updated at: 2026-09-25 12:23 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
+*Updated at: 2026-09-25 13:14 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
 
 
 <!-- MULTI-DAY-END -->
